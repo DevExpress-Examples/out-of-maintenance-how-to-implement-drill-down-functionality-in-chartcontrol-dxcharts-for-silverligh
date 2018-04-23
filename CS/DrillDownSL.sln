@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrillDownSL", "DrillDownSL\DrillDownSL.csproj", "{C0C1373D-8172-44EF-BB7B-8EA1C2C0B232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrillDownSL.Web", "DrillDownSL.Web\DrillDownSL.Web.csproj", "{8EEB943A-846B-419F-9FDC-1A1295AD601F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C1373D-8172-44EF-BB7B-8EA1C2C0B232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C1373D-8172-44EF-BB7B-8EA1C2C0B232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C1373D-8172-44EF-BB7B-8EA1C2C0B232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C1373D-8172-44EF-BB7B-8EA1C2C0B232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEB943A-846B-419F-9FDC-1A1295AD601F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEB943A-846B-419F-9FDC-1A1295AD601F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEB943A-846B-419F-9FDC-1A1295AD601F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEB943A-846B-419F-9FDC-1A1295AD601F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
