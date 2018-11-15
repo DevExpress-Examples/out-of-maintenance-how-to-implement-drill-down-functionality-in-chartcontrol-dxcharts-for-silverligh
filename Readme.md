@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DrillDownSL/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DrillDownSL/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/DrillDownSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DrillDownSL/MainPage.xaml.vb))
+* [Resources.cs](./CS/DrillDownSL/Resources.cs) (VB: [Resources.vb](./VB/DrillDownSL/Resources.vb))
+* [WorkActivity.cs](./CS/DrillDownSL/WorkActivity.cs) (VB: [WorkActivity.vb](./VB/DrillDownSL/WorkActivity.vb))
+<!-- default file list end -->
 # How to implement drill-down functionality in ChartControl (DXCharts for Silverlight)
 
 
